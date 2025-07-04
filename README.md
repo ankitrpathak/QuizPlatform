@@ -1,4 +1,4 @@
-# QuizPlatform
+# [QuizPlatform](https://quizplatformz.netlify.app/)
 
 QuizPlatform is an interactive web application built with Next.js that allows users to participate in quizzes, evaluate results, and explore learning in a dynamic way.
 
