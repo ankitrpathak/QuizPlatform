@@ -1,5 +1,5 @@
-import React from 'react';
-import { Heart, Code } from 'lucide-react';
+import React from "react";
+import { Heart, Code } from "lucide-react";
 
 const Footer: React.FC = () => {
   return (
@@ -13,7 +13,8 @@ const Footer: React.FC = () => {
             <Code className="h-4 w-4 text-primary-500" />
           </div>
           <p className="text-xs text-gray-500">
-            © 2024 Micro-Quiz Platform. A modern, interactive learning experience.
+            © 2025 Micro-Quiz Platform. A modern, interactive learning
+            experience.
           </p>
         </div>
       </div>
