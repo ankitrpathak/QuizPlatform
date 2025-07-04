@@ -26,15 +26,10 @@ QuizPlatform is an interactive web application built with Next.js that allows us
    yarn install
    ```
 
-3. **Set up environment variables:**
-   - Copy `.env.example` to `.env.local` and fill in the necessary values.
-
 4. **Run the development server:**
    ```bash
    npm run dev
    ```
-
-5. **Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.**
 
 ---
 
